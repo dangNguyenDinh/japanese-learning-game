@@ -53,7 +53,9 @@
     background-color: rgb(0, 121, 54);
     color:bisque;
 }
-
+#change{
+    left: 20vw;
+}
 #flashcard{
     position: absolute;
     height: 100vh;
